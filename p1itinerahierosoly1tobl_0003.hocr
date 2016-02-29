@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p1itinerahierosoly1tobl_0003.png"; bbox 0 0 2325 3476; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 42 940">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 42 940">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 42 940; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 42 940; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 927 1207 1531 1256">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 927 1207 1531 1256">
+     <span class='ocr_line' id='line_1_2' title="bbox 927 1207 1531 1256; baseline 0.03 -18"><span class='ocrx_word' id='word_1_2' title='bbox 927 1207 1153 1243; x_wconf 81' lang='lat' dir='ltr'><em>LIBRAJRES</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1175 1213 1238 1246; x_wconf 76' lang='lat' dir='ltr'><em>DE</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1263 1215 1319 1248; x_wconf 84' lang='lat' dir='ltr'><em>LA</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1344 1215 1531 1256; x_wconf 79' lang='lat' dir='ltr'><em>SOCJETE</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 811 1389 1646 1508">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 811 1389 1646 1508">
+     <span class='ocr_line' id='line_1_3' title="bbox 813 1389 1646 1449; baseline 0.029 -32"><span class='ocrx_word' id='word_1_6' title='bbox 813 1394 934 1420; x_wconf 78' lang='lat' dir='ltr'><strong>PARJS:</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1000 1389 1114 1434; x_wconf 82' lang='lat' dir='ltr'><em>Ernest</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1127 1393 1269 1436; x_wconf 84' lang='lat' dir='ltr'><em>Leroux,</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1289 1402 1342 1440; x_wconf 82' lang='lat'><em>28,</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1362 1411 1418 1433; x_wconf 84' lang='lat' dir='ltr'><em>rue</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1442 1403 1646 1449; x_wconf 85' lang='lat' dir='ltr'>Bonaparte.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 811 1462 1332 1508; baseline 0.027 -20"><span class='ocrx_word' id='word_1_12' title='bbox 811 1464 973 1493; x_wconf 76' lang='lat' dir='ltr'>LEIPZIG:</span> <span class='ocrx_word' id='word_1_13' title='bbox 1002 1462 1073 1495; x_wconf 86' lang='lat' dir='ltr'><em>Otto</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1090 1463 1332 1508; x_wconf 79' lang='lat' dir='ltr'><em>Haraffo-witz.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

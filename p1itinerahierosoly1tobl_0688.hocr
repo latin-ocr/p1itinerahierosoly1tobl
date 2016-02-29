@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p1itinerahierosoly1tobl_0688.png"; bbox 0 0 2216 3435; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 960 1200 1596 1235">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 960 1200 1596 1235">
+     <span class='ocr_line' id='line_1_1' title="bbox 960 1200 1596 1235; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 960 1203 1130 1235; x_wconf 83' lang='lat' dir='ltr'><em>CODEX</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1154 1200 1596 1234; x_wconf 69' lang='lat' dir='ltr'>McANUSCRI‘PTUS:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 731 1354 1523 1397">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 731 1354 1523 1397">
+     <span class='ocr_line' id='line_1_2' title="bbox 731 1354 1523 1397; baseline -0.004 -9"><span class='ocrx_word' id='word_1_3' title='bbox 731 1357 899 1397; x_wconf 56' lang='lat' dir='ltr'>Heidelb„</span> <span class='ocrx_word' id='word_1_4' title='bbox 921 1356 1024 1388; x_wconf 83' lang='lat' dir='ltr'>Salem</span> <span class='ocrx_word' id='word_1_5' title='bbox 1044 1357 1099 1397; x_wconf 80' lang='lat' dir='ltr'>IX,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1121 1366 1162 1397; x_wconf 82' lang='lat'>29</span> <span class='ocrx_word' id='word_1_7' title='bbox 1184 1355 1356 1396; x_wconf 85' lang='lat' dir='ltr'>(membr.‚</span> <span class='ocrx_word' id='word_1_8' title='bbox 1380 1356 1401 1386; x_wconf 82' lang='lat' dir='ltr'>s.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1425 1354 1523 1396; x_wconf 91' lang='lat' dir='ltr'>XIII).</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

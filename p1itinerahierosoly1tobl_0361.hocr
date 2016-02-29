@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p1itinerahierosoly1tobl_0361.png"; bbox 0 0 2216 3435; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 597 1133 1323 1392">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 597 1133 1323 1392">
+     <span class='ocr_line' id='line_1_1' title="bbox 908 1133 1008 1190; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 908 1133 1008 1190; x_wconf 86' lang='lat' dir='ltr'>XII</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 597 1332 1323 1392; baseline 0 -15"><span class='ocrx_word' id='word_1_2' title='bbox 597 1332 1323 1392; x_wconf 63' lang='lat' dir='ltr'>commemoRmonm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 354 1508 1561 1568">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 354 1508 1561 1568">
+     <span class='ocr_line' id='line_1_3' title="bbox 354 1508 1561 1568; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 354 1511 450 1567; x_wconf 88' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 496 1510 698 1568; x_wconf 86' lang='lat' dir='ltr'>CASIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 745 1511 864 1567; x_wconf 84' lang='lat' dir='ltr'>DEI</span> <span class='ocrx_word' id='word_1_6' title='bbox 897 1509 1030 1567; x_wconf 87' lang='lat' dir='ltr'>VEL</span> <span class='ocrx_word' id='word_1_7' title='bbox 1063 1508 1561 1567; x_wconf 84' lang='lat' dir='ltr'>MONASTERIIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 822 1724 1094 1789">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 822 1724 1094 1789">
+     <span class='ocr_line' id='line_1_4' title="bbox 822 1724 1094 1789; baseline 0.011 -19"><span class='ocrx_word' id='word_1_8' title='bbox 822 1725 956 1789; x_wconf 85' lang='lat' dir='ltr'>[circa</span> <span class='ocrx_word' id='word_1_9' title='bbox 981 1724 1094 1788; x_wconf 82' lang='lat'>808]</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
